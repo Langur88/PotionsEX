@@ -1,0 +1,8 @@
+name: PotionsEX
+version: 1.0
+author: Langur
+description: A potion effects plugin.
+main: me.Langur.PotionsEX.PotionsEX
+commands:
+  potions:
+    description: The PotionsEX command.
